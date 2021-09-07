@@ -1,1 +1,1 @@
-# ryker-log
+# ryker go-log
